@@ -1,0 +1,10 @@
+{
+  "project": "Tissue Drug Diffusion Simulator",
+  "model": "2D reaction-diffusion",
+  "visuals": [
+    "heatmap",
+    "GIF",
+    "time series",
+    "absorption curves"
+  ]
+}
